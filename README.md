@@ -2,7 +2,7 @@
 
 **Licensed Architect · BIM Consultant · Self-Taught Web Developer**
 
-I'm a licensed architect and BIM Consultant based in Manila, Philippines 🇵🇭, currently working as a **Global Modeling Services (GMS) Modeler at BIMCAP** — delivering multi-disciplinary BIM projects across Europe (Greece, UK, Germany, Finland, Poland, and Belgium).
+I'm a Architecture Licensure Passer and BIM Consultant based in Manila, Philippines 🇵🇭, currently working as a **Global Modeling Services (GMS) Modeler at BIMCAP** — delivering multi-disciplinary BIM projects across Europe (Greece, UK, Germany, Finland, Poland, and Belgium).
 
 Outside of architecture and BIM, I'm on a self-taught journey into web development — building real products for real users, starting with my family's food business.
 
