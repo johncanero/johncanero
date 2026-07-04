@@ -4,7 +4,7 @@
 
 I'm a Architecture Licensure Passer and BIM Consultant based in Manila, Philippines 🇵🇭, currently working as a **Global Modeling Services (GMS) Modeler at BIMCAP** — delivering multi-disciplinary BIM projects across Europe (Greece, UK, Germany, Finland, Poland, and Belgium).
 
-Outside of architecture and BIM, I'm on a self-taught journey into web development — building real products for real users, starting with my family's food business.
+Outside of architecture and BIM, I'm on a self-taught journey into web development — building real products for real users, starting with my family's food businesses: canteen and wet & dry market.
 
 ---
 
@@ -51,8 +51,6 @@ Outside of architecture and BIM, I'm on a self-taught journey into web developme
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johncanero/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/johncanero.studio)
-[![Email](https://img.shields.io/badge/johncanero.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johncanero.official@gmail.com)
 
 ---
 
