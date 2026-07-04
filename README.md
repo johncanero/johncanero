@@ -1,6 +1,6 @@
 # Hi, I'm John (Jam) Cañero 👋
 
-**Licensed Architect · BIM Consultant · Self-Taught Web Developer**
+**Architecture Licensure Passer · BIM Consultant · Self-Taught Web Developer**
 
 I'm a Architecture Licensure Passer and BIM Consultant based in Manila, Philippines 🇵🇭, currently working as a **Global Modeling Services (GMS) Modeler at BIMCAP** — delivering multi-disciplinary BIM projects across Europe (Greece, UK, Germany, Finland, Poland, and Belgium).
 
