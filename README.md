@@ -31,7 +31,8 @@ Outside of architecture and BIM, I'm on a self-taught journey into web developme
 
 | Project | Description |
 |---|---|
-| [**Estima PH**](https://www.estimaph.com/) | A BIM-to-BOQ platform for the Philippine construction industry: upload an IFC model or enter a take-off, and get a Bill of Quantities priced against your own supplier prices. |
+| [**John Cañero Portfolio**](https://johncanero.com/) | My personal portfolio as a Licensed Architect and BIM Coordinator: selected projects, tech stack, experience, and a contact form. Built with Next.js, Tailwind CSS, and Resend. |
+| [**Estima PH**](https://www.estimaph.com/) | A BIM-to-BOQ platform for the Philippine construction industry: upload an IFC model or enter a take-off, and get a Bill of Quantities priced against your own supplier prices. Also includes free construction calculators (CHB, concrete, tile, paint, house cost). |
 | [**Pamilya Market**](https://pamilyamarket.vercel.app/) | An online market platform built for our family business — browse and order fresh goods online. |
 
 
