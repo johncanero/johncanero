@@ -31,8 +31,9 @@ Outside of architecture and BIM, I'm on a self-taught journey into web developme
 
 | Project | Description |
 |---|---|
+| [**Estima PH**](https://www.estimaph.com/) | A BIM-to-BOQ platform for the Philippine construction industry: upload an IFC model or enter a take-off, and get a Bill of Quantities priced against your own supplier prices. |
 | [**Pamilya Market**](https://pamilyamarket.vercel.app/) | An online market platform built for our family business — browse and order fresh goods online. |
-| [**Pamilya Canteen**](https://pamilyacanteen.vercel.app/) | A digital canteen experience for our family's food venture — menu, ordering, and more. |
+
 
 ---
 
