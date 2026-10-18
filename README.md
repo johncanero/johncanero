@@ -1,18 +1,29 @@
 # Hi, I'm John (Jam) Cañero 👋
 
-**Architecture Licensure Passer · BIM Consultant · Self-Taught Web Developer**
+**Licensed Architect · BIM Coordinator · Self-Taught Web Developer**
 
-I'm a Architecture Licensure Passer and BIM Consultant based in Manila, Philippines 🇵🇭, currently working as a **Global Modeling Services (GMS) Modeler at BIMCAP** — delivering multi-disciplinary BIM projects across Europe (Greece, UK, Germany, Finland, Poland, and Belgium).
+I'm a Registered and Licensed Architect and BIM Coordinator at Cushman & Wakefield, based in Manila, Philippines 🇵🇭. I coordinate multi-disciplinary building information models that turn design intent into constructible, data-rich outcomes, working with teams across Asia-Pacific and on projects in six European countries: the UK, Germany, Greece, Finland, Poland, and Belgium.
 
-Outside of architecture and BIM, I'm on a self-taught journey into web development — building real products for real users, starting with my family's food businesses: canteen and wet & dry market.
+Outside of architecture and BIM, I'm on a self-taught journey into web development, building real products for real users, starting with my family's food businesses: a canteen and a wet & dry market.
 
 ---
 
 ## 🏗️ What I Do
 
-- **BIM & Architecture** — End-to-end BIM workflows: Scan-to-BIM, clash detection, LOD 100–500 modeling, construction documentation using Revit, Navisworks, and Autodesk Construction Cloud.
-- **Web Development** — Building full-stack web applications with React, Next.js, Node.js, and modern frontend tooling.
-- **Continuous Learning** — Currently expanding into data analytics (Excel, Power BI, SQL) and AI-assisted workflows.
+- **BIM Workflow & Standards**: Managing and improving BIM workflows, refining Revit templates, and developing parametric families that make teams faster and models more reliable.
+- **Space Planning & Interiors**: Functional, people-centered interior layouts, from planning through documentation.
+- **Coordination & Delivery**: Scan-to-BIM integration, clash detection across architectural, structural, and MEPHS disciplines, LOD 100–500 deliverables, and Common Data Environments (ACC, BIM 360, Newforma Konekt, SharePoint).
+- **Web Development**: Full-stack web applications with React, Next.js, Node.js, and modern frontend tooling.
+- **Continuous Learning**: Expanding into data analytics (Excel, SQL) and AI-assisted workflows.
+
+---
+
+## 🎓 Background & Credentials
+
+- Registered and Licensed Architect, Professional Regulation Commission (PRC)
+- Bachelor of Science in Architecture, Cum Laude, University of Santo Tomas
+- Anthropic AI Fluency and Claude certifications
+- Began my path into BIM as an Architectural Associate, leading schematic design, space programming, facade development, and construction documentation for educational, institutional, and residential projects
 
 ---
 
@@ -45,6 +56,8 @@ Outside of architecture and BIM, I'm on a self-taught journey into web developme
 **BIM & Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+Also working daily with Revit, Navisworks, and Autodesk Construction Cloud.
 
 ---
 
